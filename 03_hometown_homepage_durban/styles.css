@@ -76,6 +76,39 @@ img {
 /* STYLE SECTION HEADINGS */
 h3,
 h4,
+h5,
 p {
   color: blueviolet;
+}
+
+/* GUIDE SECTION */
+
+/* style background */
+.guide {
+  background: #ddd6e3;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* style guide card */
+.guide-card {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  background: #f3e9f4;
+  padding: 40px;
+  border-bottom: 4px solid #8a2be2;
+  border-radius: 20px;
+}
+
+/* style image */
+.guide-img {
+  border-radius: 20px;
+}
+
+/* padding on the text */
+.guide-paragraph {
+  padding: 0 0 0 20px;
 }
