@@ -5,13 +5,16 @@ These are front-end projects I created while doing the full stack developer cour
 ## Projects
 
 1. [**About Me**](https://mbaliscode.github.io/front-end-projects/01_about_me/)  
+   HTML | CSS
    A simple HTML "About Me" page. Although this wasn’t part of the Scrimba course, it was one of my very first projects and helped me get comfortable with basic HTML structure.
 
 2. [**Happy Birthday Gift Card**](https://mbaliscode.github.io/front-end-projects/02_happy_birthday_gift_card/)  
+   HTML | CSS
    A fun project to wish someone a happy birthday by showing gifs when you hover over them. One of the challenges I faced was learning how to center elements properly.
 
 3. [**Solo Project – Hometown Homepage (Durban)**](https://mbaliscode.github.io/front-end-projects/03_hometown_homepage_durban/)  
-   still working on this ......
+   HTML | CSS
+   I built this project to showcase my hometown, Durban. It's a simple homepage that uses flexbox to align and center elements (something I had struggled with prior) and sectioning different parts of a page. 
 
 ---
 
