@@ -6,15 +6,23 @@ These are front-end projects I created while doing the full stack developer cour
 
 1. [**About Me**](https://mbaliscode.github.io/front-end-projects/01_about_me/)  
    HTML | CSS
+   <br>
    A simple HTML "About Me" page. Although this wasn’t part of the Scrimba course, it was one of my very first projects and helped me get comfortable with basic HTML structure.
 
 2. [**Happy Birthday Gift Card**](https://mbaliscode.github.io/front-end-projects/02_happy_birthday_gift_card/)  
    HTML | CSS
+   <br>
    A fun project to wish someone a happy birthday by showing gifs when you hover over them. One of the challenges I faced was learning how to center elements properly.
 
 3. [**Solo Project – Hometown Homepage (Durban)**](https://mbaliscode.github.io/front-end-projects/03_hometown_homepage_durban/)  
    HTML | CSS
-   I built this project to showcase my hometown, Durban. It's a simple homepage that uses flexbox to align and center elements (something I had struggled with prior) and sectioning different parts of a page. 
+   <br>
+   I built this project to showcase my hometown, Durban. It's a simple homepage that uses flexbox to align and center elements (something I had struggled with prior) and sectioning different parts of a page.
+
+4. [**Counter App**](https://mbaliscode.github.io/front-end-projects/04_counter_app/)  
+   HTML | CSS | JavaScript
+   <br>
+   This is a counter app that uses JavaScript for interactivity. It counts the number of people who have entered the train, saves the entries (per completed train count), and then resets to zero upon hitting the save button. I tweaked it a bit to add my own style by changing the background image and added a background colour for the content section.
 
 ---
 
