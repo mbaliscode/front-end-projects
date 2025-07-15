@@ -24,6 +24,11 @@ These are front-end projects I created while doing the full stack developer cour
    <br>
    This is a counter app that uses JavaScript for interactivity. It counts the number of people who have entered the train, saves the entries (per completed train count), and then resets to zero upon hitting the save button. I tweaked it a bit to add my own style by changing the background image and added a background colour for the content section.
 
+5. [**Error Message**](https://mbaliscode.github.io/front-end-projects/05_error_message/)  
+   HTML | CSS | JavaScript
+   <br>
+   A simple product page that. When the user clicks the purchase button, it renders out an error message. 
+
 ---
 
 _More projects coming soon..._
